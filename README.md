@@ -10,6 +10,9 @@ I am proud to have created <a href="https://github.com/danielthls/WoD-L5R-Dice">
 I'm learning Java and I also dabble in HTML and CSS.  I enjoy beginning small projects and expanding upon them as time goes on. While seeking employment, I'm still improving my current projects and creating new ones!
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielthls)](https://github.com/danielthls)
+
+
 <!--
 **danielthls/danielthls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
